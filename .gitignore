@@ -1,0 +1,8 @@
+*~
+#*
+.#*
+*.bak
+*.log
+*.dSYM
+.DS_Store
+.vagrant
