@@ -3,6 +3,7 @@
 .#*
 *.bak
 *.log
+*.zip
 *.dSYM
 .DS_Store
 .vagrant
